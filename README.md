@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manju-muthuraj&label=Profile%20views&color=0e75b6&style=flat" alt="manju-muthuraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manju-muthuraj" alt="manju-muthuraj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/8d51a56ad77e35948b1eb12fe92af12df05af9d6dc00a32c2d6419d4d44a2fa5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d64656570616b72616f67267468656d653d6461726b687562" alt="Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=deepakraog&amp;theme=darkhub" style="max-width: 100%;"><img src="https://github-profile-trophy.vercel.app/?username=manju-muthuraj" alt="manju-muthuraj" /></a> </p>
+
 
 - 📫 How to reach me **manju.muthuraj@gmail.com**
 
