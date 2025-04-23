@@ -3,7 +3,7 @@
   Hey there, I'm Manjunatha M! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">FullStack Developer | Bangalore, India</h3>
+<h3 align="center">Senior Engineering Manager | Bangalore, India</h3>
 
 <!-- Profile Views -->
 <p align="center">
