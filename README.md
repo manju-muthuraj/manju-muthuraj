@@ -25,7 +25,6 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently exploring **LLMs**, **MCP**, **LangChain**, **Fine Tuning**, **agent.ai** and cloud solutions.  
 - 🧩 Love problem-solving, optimizing code, and scaling software.  
 - 🎯 Goal: Contribute to open-source and share knowledge with the dev community.  
 
